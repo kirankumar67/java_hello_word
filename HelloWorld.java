@@ -9,6 +9,7 @@ System.out.println("Hello, kiran");
 System.out.println("Hello, kiran");
 System.out.println("Hello, kiran");
 System.out.println("Happy ------------ dussera");
+System.out.println("Happy ---------- diwali folks");
 
 
   }
